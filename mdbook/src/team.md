@@ -33,8 +33,6 @@ Aymeric built the complete parsing infrastructure using Megaparsec, implementing
 
 ---
 
-## Additional Contributors
-
 ### Sven R.
 **Role:** TBD
 
