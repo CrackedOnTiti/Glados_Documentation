@@ -25,7 +25,6 @@
 
 # Development Guide
 
-- [Extending GLaDOS](./development/extending.md)
 - [Error Messages](./development/error-messages.md)
 
 # Security

@@ -44,7 +44,7 @@ sudo dnf install gcc gcc-c++ gmp-devel make ncurses-devel zlib-devel
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:EpitechPGE3-2025/G-FUN-500-TLS-5-1-glados-2.git
 cd glados
 ```
 
